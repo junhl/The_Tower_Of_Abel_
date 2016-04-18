@@ -1,0 +1,296 @@
+fileFormatVersion: 2
+guid: 3aebc183afecab94c9c5697caccb166a
+timeCreated: 1458752292
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: avatars-level1_0
+    21300002: avatars-level1_1
+    21300004: avatars-level1_2
+    21300006: avatars-level1_3
+    21300008: avatars-level1_4
+    21300010: avatars-level1_5
+    21300012: avatars-level1_6
+    21300014: avatars-level1_7
+    21300016: avatars-level1_8
+    21300018: avatars-level1_9
+    21300020: avatars-level1_10
+    21300022: avatars-level1_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: avatars-level1_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 18
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 28.5}
+        - {x: -25.5, y: 20.5}
+        - {x: -25.5, y: -5.5}
+        - {x: -16.5, y: -28.5}
+        - {x: 18.5, y: -28.5}
+        - {x: 25.5, y: -20.5}
+        - {x: 25.5, y: 10.5}
+        - {x: 14.5, y: 28.5}
+    - name: avatars-level1_1
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 18
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 28.5}
+        - {x: -26, y: 18.5}
+        - {x: -26, y: -0.5}
+        - {x: -17, y: -28.5}
+        - {x: 14, y: -28.5}
+        - {x: 26, y: -26.5}
+        - {x: 26, y: 18.5}
+        - {x: 12, y: 28.5}
+    - name: avatars-level1_2
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 18
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26, y: -16.5}
+        - {x: 26, y: 22.5}
+        - {x: 14, y: 28.5}
+        - {x: -26, y: 28.5}
+        - {x: -26, y: -13.5}
+        - {x: -17, y: -28.5}
+        - {x: 6, y: -28.5}
+        - {x: 12, y: -18.5}
+        - {x: 11, y: -13.5}
+        - {x: 21, y: -18.5}
+    - name: avatars-level1_3
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 6
+        width: 91
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45.5, y: -42.5}
+        - {x: -33.5, y: -43.5}
+        - {x: 45.5, y: -43.5}
+        - {x: 45.5, y: 1.5}
+        - {x: 39.5, y: 43.5}
+        - {x: -36.5, y: 43.5}
+        - {x: -45.5, y: 22.5}
+    - name: avatars-level1_4
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 7
+        width: 87
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.5, y: 43}
+        - {x: -43.5, y: 37}
+        - {x: -43.5, y: -43}
+        - {x: 43.5, y: -43}
+        - {x: 43.5, y: 1}
+        - {x: 18.5, y: 41}
+        - {x: 12.5, y: 43}
+    - name: avatars-level1_5
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 6
+        width: 94
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: 43.5}
+        - {x: -44, y: 43.5}
+        - {x: -47, y: 33.5}
+        - {x: -47, y: -43.5}
+        - {x: 47, y: -43.5}
+        - {x: 47, y: -14.5}
+        - {x: 32, y: 40.5}
+    - name: avatars-level1_6
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 5
+        width: 96
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 44}
+        - {x: -48, y: 20}
+        - {x: -48, y: -43}
+        - {x: -45, y: -44}
+        - {x: 39, y: -44}
+        - {x: 48, y: -37}
+        - {x: 48, y: -10}
+        - {x: 12, y: 44}
+    - name: avatars-level1_7
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 27
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.5, y: 24.5}
+        - {x: -11.5, y: 24.5}
+        - {x: -26.5, y: 18.5}
+        - {x: -26.5, y: -14.5}
+        - {x: -11.5, y: -24.5}
+        - {x: 15.5, y: -24.5}
+        - {x: 22.5, y: -20.5}
+        - {x: 26.5, y: -12.5}
+        - {x: 26.5, y: 8.5}
+    - name: avatars-level1_8
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 24
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 29}
+        - {x: -18, y: 20}
+        - {x: -18, y: -29}
+        - {x: 18, y: -29}
+        - {x: 18, y: 29}
+    - name: avatars-level1_9
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 18
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.5, y: 28.5}
+        - {x: -15.5, y: 28.5}
+        - {x: -25.5, y: 18.5}
+        - {x: -25.5, y: -3.5}
+        - {x: -13.5, y: -28.5}
+        - {x: 3.5, y: -28.5}
+        - {x: 4.5, y: -27.5}
+        - {x: 25.5, y: -18.5}
+        - {x: 25.5, y: 14.5}
+    - name: avatars-level1_10
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 18
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 28.5}
+        - {x: -25.5, y: 20.5}
+        - {x: -25.5, y: -1.5}
+        - {x: -15.5, y: -26.5}
+        - {x: -13.5, y: -28.5}
+        - {x: 7.5, y: -28.5}
+        - {x: 25.5, y: -20.5}
+        - {x: 25.5, y: 13.5}
+        - {x: 13.5, y: 28.5}
+    - name: avatars-level1_11
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 17
+        width: 51
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 29}
+        - {x: -25.5, y: 26}
+        - {x: -25.5, y: -22}
+        - {x: -14.5, y: -29}
+        - {x: 18.5, y: -29}
+        - {x: 25.5, y: -22}
+        - {x: 25.5, y: 16}
+        - {x: 14.5, y: 29}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
